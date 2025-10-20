@@ -33,6 +33,7 @@ ActionType = Union[int, str]
 StateType = Tuple[int, int]
 
 
+
 @dataclass
 class Easy21Env:
     """Easy21 environment implementation."""
